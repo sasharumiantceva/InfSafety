@@ -1,3 +1,9 @@
+# 3.0.0
+## docs:
+- CHANGLOG and VERSION are updated
+## feat:
+- The third lab is added
+
 # 2.0.0
 ## docs:
 - CHANGLOG and VERSION are updated
@@ -7,3 +13,4 @@
 # 1.0.0
 ## feat
 - The first lab is added
+
