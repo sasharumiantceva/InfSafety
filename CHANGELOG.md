@@ -1,3 +1,9 @@
+# 5.0.0
+## docs:
+- CHANGLOG and VERSION are updated
+## feat:
+- The fifth lab is added
+
 # 4.0.0
 ## docs:
 - CHANGLOG and VERSION are updated
