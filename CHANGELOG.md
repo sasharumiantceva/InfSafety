@@ -1,3 +1,9 @@
+# 7.0.0
+## docs:
+- CHANGLOG and VERSION are updated
+## feat:
+- The seventh lab is added
+
 # 6.0.0
 ## docs:
 - CHANGLOG and VERSION are updated
