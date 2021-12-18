@@ -1,3 +1,9 @@
+# 8.0.0
+## docs:
+- CHANGLOG and VERSION are updated
+## feat:
+- The eighth lab is added
+
 # 7.0.0
 ## docs:
 - CHANGLOG and VERSION are updated
